@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = "ajaxful_rating"
-  s.version = "3.0.0.beta9"
+  s.version = "3.0.0.beta10"
 
   s.required_rubygems_version = Gem::Requirement.new("> 1.3.1") if s.respond_to? :required_rubygems_version=
   s.authors = ["Edgar J. Suarez", "Denis Odorcic"]
