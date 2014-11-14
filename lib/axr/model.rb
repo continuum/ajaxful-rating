@@ -269,5 +269,3 @@ end
 class ActiveRecord::Base
   include AjaxfulRating
 end
-  AjaxfulRating
-end
