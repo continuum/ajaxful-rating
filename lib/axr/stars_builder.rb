@@ -92,7 +92,8 @@ module AjaxfulRating # :nodoc:
         :stars => value,
         :dimension => options[:dimension],
         :small => options[:small],
-        :show_user_rating => options[:show_user_rating]
+        :show_user_rating => options[:show_user_rating],
+        :extra => options[:extra]
       }.to_query
       
       options = {
